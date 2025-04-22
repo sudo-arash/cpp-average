@@ -2,9 +2,9 @@
 
 int main() {
     int isDone = 0;
-    double average = 0;  // Use double for proper division
-    int count = 0;       // More descriptive name than 'i'
-    int sum = 0;         // Separate sum for clarity
+    double average = 0;  
+    int count = 0;       
+    int sum = 0;         
     
     do {
         std::cout << "Enter number (or enter 1337 to finish): ";
